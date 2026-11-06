@@ -32,31 +32,6 @@ Current Target.. Full Stack Engineer
 
 ---
 
-# 🧠 About Me
-
-```csharp
-public class Daniel
-{
-    public string Nickname => "Dxniket";
-
-    public string[] Skills =>
-    [
-        ".NET",
-        "ASP.NET Core",
-        "Razor Pages",
-        "C#",
-        "Java",
-        "JavaScript",
-        "SQL",
-        "REST APIs"
-    ];
-
-    public bool HarvardCS50xCompleted => true;
-
-    public string CurrentMission =>
-        "Build awesome software and never stop learning.";
-}
-```
 
 ---
 

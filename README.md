@@ -67,9 +67,9 @@ Azure            ███████░░░░░░░░░░░░░   
 
 🥇 HARVARD UNIVERSITY
 
-✅ CS50x - Introduction to Computer Science
+✅ CS50x - Certificate in Computer Science
 
-🎓 Successfully completed one of the world's most famous computer science courses.
+🎓 Successfully completed one of the world's most famous computer science courses :)
 
 </div>
 

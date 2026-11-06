@@ -80,7 +80,7 @@ Azure            ███████░░░░░░░░░░░░░   
 
 <div align="center">
 
-## ⚡ "Code. Learn. Improve. Repeat."
+## ⚡ "Become the best version of yourself"
 
 </div>
 
